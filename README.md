@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋 I am Gireesh
 
-<!--
-**hardfau18/hardfau18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am embedded developer/Tinkerer/Linux enthuisiast. I like to use Rust for most of my personal work, and Python and bash for scripting and automating. BTW I use arch everywhere. 
 
-Here are some ideas to get you started:
+#### 🎆 My major projects
+- [mp_rater](https://github.com/hardfau18/mp_rater) : a mpd plugin which is written in rust which will listen on mpd events and based on that calculates ratings for songs.
+- [spacewar](https://github.com/hardfau18/space-war) : a simple game written for stm32F767Zi, written in rust.
+- [stm32_pal](https://github.com/hardfau18/stm32f767zi-pal) : its a C project workspace made with makefiles and a library which provides all the structures to manipulate all the registers which is generated using svd file
+- [Xarena](https://github.com/hardfau18/Xarena)   : esports site written in python's Django for creating online game competetions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🤓 Currently I know
+- [Rust](https://www.rust-lang.org/)
+- C
+- Python
+- Lua ( just for tinkering with neovim)
+- Bash for doing small scripts
+
+About me, I like to play CTF's(reversing and binary exploitation), ricing my linux set up, turn based strategy games.
