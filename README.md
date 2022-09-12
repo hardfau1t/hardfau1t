@@ -12,7 +12,7 @@ I am embedded developer/Tinkerer/Linux enthuisiast. I like to use Rust for most 
 - [Rust](https://www.rust-lang.org/)
 - C
 - Python
-- Lua ( just for tinkering with neovim)
+- Lua
 - Bash for doing small scripts
 
 About me, I like to play CTF's(reversing and binary exploitation), ricing my linux set up, turn based strategy games.
