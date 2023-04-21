@@ -1,4 +1,4 @@
-### Hi there 👋 I am Gireesh
+### Hi there 👋 I am hardfault
 
 I am embedded developer/Tinkerer/Linux enthuisiast. I like to use Rust for most of my personal work, and Python and bash for scripting and automating. BTW I use arch everywhere. 
 
