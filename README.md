@@ -1,6 +1,6 @@
 ### Hi there 👋 I am hardfault
 
-I am embedded developer/Tinkerer/Linux enthuisiast. I like to use Rust for most of my personal work, and Python and bash for scripting and automating. BTW I use arch everywhere. 
+I am embedded developer/Tinkerer/Linux enthuisiast. I like Rust and i use rust for most of my personal work, and Python and ~~bash~~ nu for scripting and automating. BTW I use arch everywhere. 
 
 #### 🎆 My major projects
 - [mp_rater](https://github.com/hardfau18/mp_rater) : a mpd plugin which is written in rust which will listen on mpd events and based on that calculates ratings for songs.
@@ -13,6 +13,6 @@ I am embedded developer/Tinkerer/Linux enthuisiast. I like to use Rust for most 
 - C
 - Python
 - Lua
-- Bash for doing small scripts
+- ~~bash~~ nushell for scripting
 
 About me, I like to play CTF's(reversing and binary exploitation), ricing my linux set up, turn based strategy games.
